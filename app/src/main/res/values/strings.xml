@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyCalendar</string>
+    <string name="title_activity_activity__list">Activity_List</string>
+</resources>
